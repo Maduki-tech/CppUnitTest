@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/davidschluter/personal/C++/UnitExamples/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/main_lib.dir/src/Arithmatics.cpp.o -c /Users/davidschluter/personal/C++/UnitExamples/src/Arithmatics.cpp",
+  "file": "/Users/davidschluter/personal/C++/UnitExamples/src/Arithmatics.cpp",
+  "output": "CMakeFiles/main_lib.dir/src/Arithmatics.cpp.o"
+},
+{
+  "directory": "/Users/davidschluter/personal/C++/UnitExamples/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/main_lib.dir/src/Matrix.cpp.o -c /Users/davidschluter/personal/C++/UnitExamples/src/Matrix.cpp",
+  "file": "/Users/davidschluter/personal/C++/UnitExamples/src/Matrix.cpp",
+  "output": "CMakeFiles/main_lib.dir/src/Matrix.cpp.o"
+},
+{
+  "directory": "/Users/davidschluter/personal/C++/UnitExamples/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/main_lib.dir/src/TemperaturConverter.cpp.o -c /Users/davidschluter/personal/C++/UnitExamples/src/TemperaturConverter.cpp",
+  "file": "/Users/davidschluter/personal/C++/UnitExamples/src/TemperaturConverter.cpp",
+  "output": "CMakeFiles/main_lib.dir/src/TemperaturConverter.cpp.o"
+},
+{
+  "directory": "/Users/davidschluter/personal/C++/UnitExamples/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/main_lib.dir/main.cpp.o -c /Users/davidschluter/personal/C++/UnitExamples/main.cpp",
+  "file": "/Users/davidschluter/personal/C++/UnitExamples/main.cpp",
+  "output": "CMakeFiles/main_lib.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/davidschluter/personal/C++/UnitExamples/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/main_executable.dir/main.cpp.o -c /Users/davidschluter/personal/C++/UnitExamples/main.cpp",
+  "file": "/Users/davidschluter/personal/C++/UnitExamples/main.cpp",
+  "output": "CMakeFiles/main_executable.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/davidschluter/personal/C++/UnitExamples/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest/include -isystem /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/test_runner.dir/tests/Arithmatics.cpp.o -c /Users/davidschluter/personal/C++/UnitExamples/tests/Arithmatics.cpp",
+  "file": "/Users/davidschluter/personal/C++/UnitExamples/tests/Arithmatics.cpp",
+  "output": "CMakeFiles/test_runner.dir/tests/Arithmatics.cpp.o"
+},
+{
+  "directory": "/Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-build/googlemock",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googlemock/include -I/Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googlemock -isystem /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest/include -isystem /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest -std=c++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-build/googlemock",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googlemock/include -isystem /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googlemock -isystem /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest/include -isystem /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest -std=c++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-build/googletest",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest/include -I/Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest -std=c++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-build/googletest",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest/include -isystem /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest -std=c++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/davidschluter/personal/C++/UnitExamples/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]
